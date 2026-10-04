@@ -1,1 +1,2 @@
 Learning Git staging and diff commands.
+Final practice line.
